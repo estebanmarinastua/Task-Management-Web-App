@@ -1,4 +1,4 @@
-This software focuses on a simple CRUD example, designed to quickly automate processes with the click of a button. It allows users to easily add, modify, and delete tasks.
+This software focuses on a simple CRUD example, designed to quickly automate processes with the click of a button. It allows users to easily add, complete, and delete tasks.
 
 
 
