@@ -1,4 +1,4 @@
-This software is  focused on a simple example from CRUD taht is very important for automatize the processes quickly by just clicking the button Add and after that modify and delete task.
+This software focuses on a simple CRUD example, designed to quickly automate processes with the click of a button. It allows users to easily add, modify, and delete tasks.
 
 
 
